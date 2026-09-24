@@ -367,34 +367,44 @@ Prin urmare, modelul ofera rezultate bune la nivel general, dar predictiile pent
 
 12. Structura proiectului este:
 
+|-- cars.csv
 
+|-- cars_cleaned.csv
 
-    car-price-prediction/
-    |
-    |-- cars.csv
-    |-- cars_cleaned.csv
-    |-- cars_cleaned_with_features.csv
-    |
-    |-- EDA.ipynb
-    |
-    |-- data_cleaning.py
-    |-- build_features.py
-    |-- data_preprocessing.py
-    |
-    |-- train_model.py
-    |-- test_model.py
-    |-- evaluate_model.py
-    |
-    |-- model_comparison.py
-    |
-    |-- train_model2.py
-    |-- test_model2.py
-    |-- evaluate_model2.py
-    |
-    |-- linear_regression_model.joblib
-    |-- random_forest_model.joblib
-    |
-    |-- Readme.md
+|-- cars_cleaned_with_features.csv
+|    
+|-- EDA.ipynb
+|
+|-- data_cleaning.py
+
+|-- build_features.py
+
+|-- data_preprocessing.py
+
+|
+|-- train_model.py
+
+|-- test_model.py
+
+|-- evaluate_model.py
+|
+    
+|-- model_comparison.py
+|
+    
+|-- train_model2.py
+
+|-- test_model2.py
+
+|-- evaluate_model2.py
+|
+
+|-- linear_regression_model.joblib
+
+|-- random_forest_model.joblib
+
+|
+|-- Readme.md
     
 
 
