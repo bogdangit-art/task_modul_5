@@ -372,9 +372,13 @@ Prin urmare, modelul ofera rezultate bune la nivel general, dar predictiile pent
 |-- cars_cleaned.csv
 
 |-- cars_cleaned_with_features.csv
+
 |    
+
 |-- EDA.ipynb
+
 |
+
 |-- data_cleaning.py
 
 |-- build_features.py
@@ -382,14 +386,17 @@ Prin urmare, modelul ofera rezultate bune la nivel general, dar predictiile pent
 |-- data_preprocessing.py
 
 |
+
 |-- train_model.py
 
 |-- test_model.py
 
 |-- evaluate_model.py
+
 |
     
 |-- model_comparison.py
+
 |
     
 |-- train_model2.py
@@ -397,6 +404,7 @@ Prin urmare, modelul ofera rezultate bune la nivel general, dar predictiile pent
 |-- test_model2.py
 
 |-- evaluate_model2.py
+
 |
 
 |-- linear_regression_model.joblib
@@ -404,6 +412,7 @@ Prin urmare, modelul ofera rezultate bune la nivel general, dar predictiile pent
 |-- random_forest_model.joblib
 
 |
+
 |-- Readme.md
     
 
